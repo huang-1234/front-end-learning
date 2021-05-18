@@ -1,0 +1,19 @@
+{
+  "name": "front-end-hsq",
+  "version": "1.0.0",
+  "description": "front-end-learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy":"bash deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huang-1234/front-end-learning.git"
+  },
+  "keywords": [
+    "leaing-front-end"
+  ],
+  "author": "hsq",
+  "license": "ISC"
+}
